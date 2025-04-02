@@ -14,13 +14,13 @@
 </details>
 
 <details>
-<summary>1주차 목요일</summary>
+<summary>문자열 정복~</summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2002번* - [도로의 혼잡도](https://www.acmicpc.net/problem/2002)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*1753번* - [최단 경로](https://www.acmicpc.net/problem/1753)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*4889번* - [안정적인 문자열](https://www.acmicpc.net/problem/4889)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*1141번* - [접두사](https://www.acmicpc.net/problem/1141)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*11000번* - [강의실 배정](https://www.acmicpc.net/problem/11000)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*14891번* - [톱니바퀴](https://www.acmicpc.net/problem/14891) _(삼성 SW 역량 테스트)_  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*9012번* - [괄호](https://www.acmicpc.net/problem/9012)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*9935번* - [문자열폭발](https://www.acmicpc.net/problem/9935)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*4949번* - [균형잡힌 세상](https://www.acmicpc.net/problem/4949)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*17298번* - [오큰수](https://www.acmicpc.net/problem/17298)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*프로그래머스* - [짝지어 제거하기]()  
+
 
 </details>
